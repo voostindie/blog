@@ -1,0 +1,57 @@
+#baseURL = "localhost"
+title = "Vincent Oostindië"
+languageCode = "en-us"
+theme = "hello-friend-ng"
+paginate = 30
+
+[author]
+name = "Vincent Oostindië"
+
+[permalinks]
+posts = "/posts/:slug"
+
+[taxonomies]
+tag = "tags"
+
+[params]
+dateform        = "Jan 2, 2006"
+dateformShort   = "Jan 2"
+dateformNum     = "2006-01-02"
+dateformNumTime = "2006-01-02"
+homeSubtitle = "Business architect - Tribe Digital Platform"
+description = "VIPs"
+keywords = "vips,blog"
+footerLeft = "powered by <a href=\"http://gohugo.io\">hugo</a>"
+footerRight = "<a href=\"https://themes.gohugo.io/hugo-theme-hello-friend-ng/\">hello-friend-ng</a> theme"
+
+    [params.logo]
+    logoMark     = ">"
+    logoText     = "$ cd /Users/vincent/"
+    logoHomeLink = "/"
+    logoCursorColor = "#ff6600"
+
+    [params.portrait]
+    path = "images/profile.png"
+    alt = "Portrait"
+    maxWidth = "150px"
+
+    [[params.social]]
+    name = "email"
+    url = "mailto:vincent.oostindie@rabobank.nl"
+
+    [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/vincent-oostindie-7ba2511/"
+
+    [[params.social]]
+    name = "github"
+    url = "https://github.com/voostindie"
+
+[menu]
+
+    [[menu.main]]
+    identifier = "posts"
+    name = "VIPs"
+    weight = 100
+    url = "/posts/"
+
