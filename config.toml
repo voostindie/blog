@@ -22,7 +22,7 @@ homeSubtitle = "Business architect // Digital Platform"
 description = "VIPs"
 keywords = "vips,blog"
 footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
-footerRight = "<a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>, <a href=\"https://github.com/iaolo/iA-Fonts\">iA Writer Quattro</a>, <a href=\"https://www.jetbrains.com/lp/mono/\">JetBrains Mono</a>"
+footerRight = "<a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>, <a href=\"https://github.com/iaolo/iA-Fonts\">iA Writer Quattro</a>, <a href=\"https://github.com/JetBrains/JetBrainsMono\">JetBrains Mono</a>"
 
     [params.logo]
     logoMark     = ">"
