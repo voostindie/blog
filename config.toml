@@ -22,7 +22,7 @@ homeSubtitle = "Business architect - Tribe Digital Platform"
 description = "VIPs"
 keywords = "vips,blog"
 footerLeft = "powered by <a href=\"http://gohugo.io\">hugo</a>"
-footerRight = "<a href=\"https://themes.gohugo.io/hugo-theme-hello-friend-ng/\">hello-friend-ng</a> theme"
+footerRight = "<a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a> theme with <a href=\"https://github.com/iaolo/iA-Fonts\">iA Writer Quattro</a> font"
 
     [params.logo]
     logoMark     = ">"
@@ -50,8 +50,14 @@ footerRight = "<a href=\"https://themes.gohugo.io/hugo-theme-hello-friend-ng/\">
 [menu]
 
     [[menu.main]]
+    identifier = "about"
+    name = "Why?"
+    weight = 100
+    url = "/about/"
+
+    [[menu.main]]
     identifier = "posts"
     name = "VIPs"
-    weight = 100
+    weight = 200
     url = "/posts/"
 
