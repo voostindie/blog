@@ -3,15 +3,14 @@ title = "Vincent Oostindië"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 paginate = 30
+buildDrafts = true
+buildFuture = true
 
 [author]
 name = "Vincent Oostindië"
 
 [permalinks]
-posts = "/posts/:slug"
-
-[taxonomies]
-tag = "tags"
+posts = "/:year/:month/:day/:slug/"
 
 [params]
 dateform        = "Jan 2, 2006"
