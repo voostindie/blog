@@ -50,7 +50,7 @@ footerRight = "<a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\"
 
     [[menu.main]]
     identifier = "about"
-    name = "Why?"
+    name = "About"
     weight = 100
     url = "/about/"
 
