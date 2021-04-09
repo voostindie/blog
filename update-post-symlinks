@@ -1,0 +1,30 @@
+#!/usr/bin/env ruby
+#
+# This script synchronizes the blog entries
+
+SOURCE = '/Users/vincent/Rabobank/Notes'
+TARGET = '/Users/vincent/Rabobank/Blog/content/posts'
+
+# Build a hash of all blog entries [name, path]
+posts = `cd #{SOURCE} && grep -r -l \"slug: \\\"vip-\" *`.lines.map {|l| l.strip}.map { |f| [File.basename(f), f]}.to_h
+
+puts "Found #{posts.size} blog entries."
+
+puts "Fixing symlinks..."
+Dir.chdir(TARGET) do
+    # Remove all symlinks to blog entries that are no longer there
+    Dir.children('.').each do |file|
+        next unless File.symlink?(file)
+        next if posts.keys.include?(file) && File.file?(file)
+        puts "Deleting symlink: #{file}"
+        File.unlink(file)
+    end
+    # Create symlinks to all new blog entries
+    posts.each_pair do |file, path|
+        next if File.exist?(file)
+        puts "Creating symlink: #{file}"
+        File.symlink("#{SOURCE}/#{path}", file)
+    end
+end
+
+puts "Done!"

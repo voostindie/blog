@@ -1,0 +1,1 @@
+/Users/vincent/Rabobank/Notes/Digital Platform architecture topics for 2021.md

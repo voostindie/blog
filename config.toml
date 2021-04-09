@@ -5,6 +5,9 @@ theme = "hello-friend-ng"
 paginate = 30
 buildDrafts = true
 buildFuture = true
+disableKinds = ["taxonomyTerm", "tags", "categories"]
+
+[taxonomies]
 
 [author]
 name = "Vincent Oostindië"
@@ -59,4 +62,3 @@ footerRight = "<a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\"
     name = "VIPs"
     weight = 200
     url = "/posts/"
-
