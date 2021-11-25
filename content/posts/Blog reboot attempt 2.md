@@ -1,1 +1,0 @@
-/Users/vincent/Rabobank/Notes/Articles/Blog reboot attempt 2.md

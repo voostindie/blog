@@ -1,5 +1,5 @@
 #baseURL = "localhost"
-title = "Vincent Oostindië"
+title = "Vincent's Blog"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 paginate = 30
@@ -20,15 +20,16 @@ dateform        = "Jan 2, 2006"
 dateformShort   = "Jan 2"
 dateformNum     = "2006-01-02"
 dateformNumTime = "2006-01-02"
-homeSubtitle = "Business architect // Digital Platform"
-description = "VIPs"
-keywords = "vips,blog"
+homeSubtitle = "\"Arriving somewhere but not here\""
+description = "Vincent's Blog - Arriving somewhere but not here"
+keywords = "blog"
 footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
-footerRight = "<a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>, <a href=\"https://github.com/iaolo/iA-Fonts\">iA Writer Quattro</a>, <a href=\"https://github.com/JetBrains/JetBrainsMono\">JetBrains Mono</a>"
+footerRight = "<a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a> ∙ <a href=\"https://github.com/iaolo/iA-Fonts\">iA Writer Quattro</a> ∙ <a href=\"https://github.com/JetBrains/JetBrainsMono\">JetBrains Mono</a>"
+
 
     [params.logo]
-    logoMark     = ">"
-    logoText     = "$ cd /Users/vincent/"
+    logoMark     = "$"
+    logoText     = "cd /Users/vincent/"
     logoHomeLink = "/"
     logoCursorColor = "#ff6600"
 
@@ -39,7 +40,7 @@ footerRight = "<a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\"
 
     [[params.social]]
     name = "email"
-    url = "mailto:vincent.oostindie@rabobank.nl"
+    url = "mailto:vincent@ulso.nl"
 
     [[params.social]]
     name = "linkedin"
@@ -52,13 +53,13 @@ footerRight = "<a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\"
 [menu]
 
     [[menu.main]]
-    identifier = "about"
-    name = "About"
+    identifier = "posts"
+    name = "Posts"
     weight = 100
-    url = "/about/"
+    url = "/posts/"
 
     [[menu.main]]
-    identifier = "posts"
-    name = "VIPs"
+    identifier = "about"
+    name = "About"
     weight = 200
-    url = "/posts/"
+    url = "/about/"

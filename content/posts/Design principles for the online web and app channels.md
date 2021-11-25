@@ -1,1 +1,0 @@
-/Users/vincent/Rabobank/Notes/Articles/Design principles for the online web and app channels.md

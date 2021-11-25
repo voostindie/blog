@@ -1,1 +1,0 @@
-/Users/vincent/Rabobank/Notes/Articles/Expectations on our future authentication architecture.md

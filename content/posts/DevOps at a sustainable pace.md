@@ -1,1 +1,0 @@
-/Users/vincent/Rabobank/Notes/Articles/DevOps at a sustainable pace.md

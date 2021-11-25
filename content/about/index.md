@@ -1,33 +1,24 @@
 ---
 slug: about
-title: Why this separate site?
+title: About
 ---
-The big question is of course: 
+*Arriving Somewhere But Not Here* is the title of a track on the 2005 album [*Deadwing*](https://porcupinetree.com/recordings/deadwing-2/) from the band [*Porcupine Tree*](https://porcupinetree.com). It's 12 minutes long and goes all over the place. I love the track and the album!
 
-> Why are you not using SharePoint, Confluence, a Teams Wiki or something other provided by Rabobank for publishing these articles? Now they're much harder to find!
+I like the title it as a subtitle for this blog, because it can mean so many things. For example: you, as a casual reader, somehow ended up here, but it's probably not where you planned to be. Also, I don't know where I'm going with this blog at all.
 
-Actually, I do also publish most of these articles on Confluence, [on my personal space](https://confluence.dev.rabobank.nl/spaces/viewspace.action?key=~oostindiev). But, the originals are here. For a couple of reasons:
+## Me in 6 bullets
 
-- I've been at Rabobank for over 10 years. I've seen content systems come and go. Getting stuff in is easy. Getting stuff out, not so much. Keeping track of what's where is a challenge. Yet I care about the things I publish.
-- I prefer plain text and offline work. All my notes are in Markdown in a Git repository on my local machine, and have been for years. I can easily find all the stuff I ever wrote wherever I am, can easily manipulate multiple documents at the same time using simple scripting, and so on. I don't want to lock my content away in a system that I can't control.
-- I want complete control over how everything is structured and looks. These are *my* articles, it's up to me to present them how *I* like and give them a distinct appearance.
+- Name: Vincent Oostindië.
+- Age: born in 1976; you do the math.
+- Personal: live in Ede, the Netherlands, with my wife, daughter and cat.
+- Work: [business architect](https://www.linkedin.com/in/vincent-oostindie-7ba2511/) at [Rabobank](https://www.rabobank.com).
+- Volunteer: president of the [local volleybal club](https://www.tweevv.nl) (warning: all Dutch!).
+- Hobbies: [coding](https://github.com/voostindie), listening to music, reading (mostly fantasy), procrastinating on productivy, gaming on my PlayStation.
 
-## How it works (for the techies)
+## Why this blog?
 
-The setup is pretty simple:
+I'm not on Twitter. I'm not on Instagram. I'm not on Facebook. I'm not on any other social network. I just don't care about them. I think that all they are is a big waste of time. There's nothing wrong with that! I'm a great fan of wasting my time on things. But, I'd rather waste them on things that give me joy.
 
-- All my notes are in Markdown, in structured folders. Have been for years.
-- Some of these notes are articles on this blog. I configure them as such by adding some YAML front matter to them. 
-- Next my notes I have a [Hugo](https://gohugo.io) configuration that symlinks into my note structure at the appropriate places. I can reuse any of my notes instantly on this site. Updating a note also updates this site. No stale copies.
-- Every time I run `hugo` it generates a static website. It does so in milliseconds. It's really, really fast!
-- After (re-)generating the static site all that I have left to do is publish it somewhere, for you to find.
+Like keeping a blog.
 
-## What's with the [[text]]?
-
-In some articles you'll find pieces of text surrounded with [[ and ]]. These are links to other documents. This is supported by several Markdown text editors, but it's not part of Markdown itself. Hugo, the tool I use to generate this site, doesn't understand this syntax. Also, because Hugo sees just a small part of all my notes, most links wouldn't work anyway.
-
-I don't want to remove the internal links from my source documents, because they're an intricate part of my notes. They have meaning.
-
-The best thing to do would be to replace the internal links with their plain text counterparts, only on this site. Unfortunately, I don't think that's possible with Hugo today, and I don't want to complicate the build pipeline by adding additional tools and preprocessing steps.
-
-That's why, at least for now, you see these internal links. The good news is that they're just plain text. Nothing breaks. They just look a little funny. View them as a small glimpse into my world: there's much more where this came from; you're just seeing the tip of the iceberg...
+Of course I know nobody is blogging anymore. I'm clearly getting old and am out of touch with reality. I don't care. I'm keeping this blog for me, myself and I in the first place. I like fiddling on it. I like tweaking it. It gives me joy. If some of the content on this blog gives somebody else some joy as well, then all the better. If not, also fine!
