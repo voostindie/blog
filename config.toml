@@ -3,8 +3,8 @@ title = "Vincent's Blog"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 paginate = 30
-buildDrafts = true
-buildFuture = true
+buildDrafts = false
+buildFuture = false
 
 [author]
 name = "Vincent Oostindië"
