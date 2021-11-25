@@ -1,1 +1,1 @@
-/Users/vincent/Rabobank/Notes/Blog reboot attempt 2.md
+/Users/vincent/Rabobank/Notes/Articles/Blog reboot attempt 2.md
