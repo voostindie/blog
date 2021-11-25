@@ -2,7 +2,7 @@
 title: "How I Manage This Blog"
 slug: "how-i-manage-this-blog"
 date: 2021-11-25
-draft: true
+draft: false
 toc: false
 cover: "images/hugo-github-pages.svg"
 ---
