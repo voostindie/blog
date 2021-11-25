@@ -5,12 +5,19 @@ theme = "hello-friend-ng"
 paginate = 30
 buildDrafts = false
 buildFuture = false
+enableRobotsTXT = true
+enableGitInfo  = true
+enableEmoji = true
 
 [author]
 name = "Vincent Oostindië"
 
 [permalinks]
 posts = "/:year/:month/:day/:slug/"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
 
 [params]
 dateform        = "Jan 2, 2006"
@@ -20,9 +27,16 @@ dateformNumTime = "2006-01-02"
 homeSubtitle = "\"Arriving somewhere but not here\""
 description = "Vincent's Blog - Arriving somewhere but not here"
 keywords = "blog"
-footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
-footerRight = "Made with <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>, <a href=\"https://github.com/iaolo/iA-Fonts\">iA Writer Quattro</a>, <a href=\"https://github.com/JetBrains/JetBrainsMono\">JetBrains Mono</a>"
 
+    [params.footer]
+    tradeMark = true
+    author = true
+    rss = true
+    copyright = false
+    topText = []
+    bottomText =  [
+        "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+        "Made with <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>, <a href=\"https://github.com/iaolo/iA-Fonts\">iA Writer Quattro</a>, <a href=\"https://github.com/JetBrains/JetBrainsMono\">JetBrains Mono</a>"]
 
     [params.logo]
     logoMark     = "$"
@@ -44,25 +58,21 @@ footerRight = "Made with <a href=\"https://github.com/rhazdon/hugo-theme-hello-f
     [[menu.main]]
     identifier = "posts"
     name = "Posts"
-    weight = 100
     url = "/posts/"
+
+    [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
 
     # Disabled for now. I might turn it on once I have more posts:    
     # [[menu.main]]
     # identifier = "categories"
     # name = "Categories"
-    # weight = 200
     # url = "/categories/"
 
     # Disabled for now. I might turn it on once I have more posts:    
     # [[menu.main]]
     # identifier = "tags"
     # name = "Tags"
-    # weight = 300
     # url = "/tags/"
-
-    [[menu.main]]
-    identifier = "about"
-    name = "About"
-    weight = 400
-    url = "/about/"
