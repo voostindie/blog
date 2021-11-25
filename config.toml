@@ -5,9 +5,6 @@ theme = "hello-friend-ng"
 paginate = 30
 buildDrafts = true
 buildFuture = true
-disableKinds = ["taxonomyTerm", "tags", "categories"]
-
-[taxonomies]
 
 [author]
 name = "Vincent Oostindië"
@@ -24,7 +21,7 @@ homeSubtitle = "\"Arriving somewhere but not here\""
 description = "Vincent's Blog - Arriving somewhere but not here"
 keywords = "blog"
 footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
-footerRight = "<a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a> ∙ <a href=\"https://github.com/iaolo/iA-Fonts\">iA Writer Quattro</a> ∙ <a href=\"https://github.com/JetBrains/JetBrainsMono\">JetBrains Mono</a>"
+footerRight = "Made with <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>, <a href=\"https://github.com/iaolo/iA-Fonts\">iA Writer Quattro</a>, <a href=\"https://github.com/JetBrains/JetBrainsMono\">JetBrains Mono</a>"
 
 
     [params.logo]
@@ -39,14 +36,6 @@ footerRight = "<a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\"
     maxWidth = "150px"
 
     [[params.social]]
-    name = "email"
-    url = "mailto:vincent@ulso.nl"
-
-    [[params.social]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/vincent-oostindie-7ba2511/"
-
-    [[params.social]]
     name = "github"
     url = "https://github.com/voostindie"
 
@@ -59,7 +48,19 @@ footerRight = "<a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\"
     url = "/posts/"
 
     [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    weight = 200
+    url = "/categories/"
+
+    [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    weight = 300
+    url = "/tags/"
+
+    [[menu.main]]
     identifier = "about"
     name = "About"
-    weight = 200
+    weight = 400
     url = "/about/"
