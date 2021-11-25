@@ -11,7 +11,7 @@ I like the title as a subtitle for this blog, because it can mean so many things
 - Born in 1976; you do the math.
 - Live in Ede in the Netherlands, with my wife, daughter and cat.
 - [Business architect](https://www.linkedin.com/in/vincent-oostindie-7ba2511/) at [Rabobank](https://www.rabobank.com).
-- President of [TweeVV](https://www.tweevv.nl), the local volleyball club (warning: all Dutch!).
+- President of [TweeVV](https://www.tweevv.nl), the local volleyball club.
 - Like [coding](https://github.com/voostindie), listening to music, reading (mostly fantasy), procrastinating on productivy, watching movies, gaming on PlayStation.
 
 ## Why this blog?

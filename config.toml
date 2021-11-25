@@ -47,17 +47,19 @@ footerRight = "Made with <a href=\"https://github.com/rhazdon/hugo-theme-hello-f
     weight = 100
     url = "/posts/"
 
-    [[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    weight = 200
-    url = "/categories/"
+    # Disabled for now. I might turn it on once I have more posts:    
+    # [[menu.main]]
+    # identifier = "categories"
+    # name = "Categories"
+    # weight = 200
+    # url = "/categories/"
 
-    [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    weight = 300
-    url = "/tags/"
+    # Disabled for now. I might turn it on once I have more posts:    
+    # [[menu.main]]
+    # identifier = "tags"
+    # name = "Tags"
+    # weight = 300
+    # url = "/tags/"
 
     [[menu.main]]
     identifier = "about"
