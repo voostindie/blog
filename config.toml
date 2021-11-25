@@ -27,6 +27,7 @@ dateformNumTime = "2006-01-02"
 homeSubtitle = "\"Arriving somewhere but not here\""
 description = "Vincent's Blog - Arriving somewhere but not here"
 keywords = "blog"
+gitUrl = "https://github.com/voostindie/blog/commit/"
 
     [params.footer]
     tradeMark = true
@@ -34,9 +35,7 @@ keywords = "blog"
     rss = true
     copyright = false
     topText = []
-    bottomText =  [
-        "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-        "Made with <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>, <a href=\"https://github.com/iaolo/iA-Fonts\">iA Writer Quattro</a>, <a href=\"https://github.com/JetBrains/JetBrainsMono\">JetBrains Mono</a>"]
+    bottomText =  []
 
     [params.logo]
     logoMark     = "$"
