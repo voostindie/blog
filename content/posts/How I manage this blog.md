@@ -16,11 +16,11 @@ If these words make you woozy, then this is not for you.
 
 ## Markdown files in a Git repository
 
-Over a decade ago I settled on [Markdown](https://daringfireball.net/projects/markdown/) for all my writing. Although it has some drawbacks, the benefits easily outweigh them. At least for me. I can edit my writing anywhere, with any text editor, also 30 years from now. I can run scripts to modify files in batch or extract information from them for reports, and so on.
+Over a decade ago I settled on [Markdown](https://daringfireball.net/projects/markdown/) for all my writing. Although it has some drawbacks, the benefits easily outweigh them. At least for me. I can view my writing with any text editor, also 30 years from now. I can run simple commands[^commands] to modify files in batch or extract information from them for reports, and so on.
 
-To be honest I don't use "plain" Markdown. I use generally accepted extensions like YAML front matter, code fragments, tables and wiki links. 
+[^commands]: `grep`, `awk`, `sed`... These proven tools are about my age, still work great today, and will continue to do so for years to come.
 
-So, if I'm going to maintain a blog, there's no question about how I'll do that: in Markdown. To get versioning in place I stick my posts in a [Git](https://git-scm.com) repository.
+So, if I'm going to maintain a blog, there's no question about how I'll do that: in Markdown (with some handy extensions). To get versioning in place I stick my posts in a [Git](https://git-scm.com) repository.
 
 As a backup, I push my local repository to [GitHub](https://github.com). Having the repository on GitHub means that I can do other nifty things with my content, like publishing it to a website on GitHub Pages. But before we get into that I have to explain how I turn my Markdown files into an actual website.
 
