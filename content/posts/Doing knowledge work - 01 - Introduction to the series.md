@@ -18,7 +18,7 @@ On the off chance that I get to tell a colleague about *how* I work, two things 
 1. I get high on energy talking about it. I'm *really* passionate about this!
 2. They look at me funny, eventually. This is not *that* important, now is it?
 
-My observation is that few people try to get better at *how* they work. Everybody uses the tools they got handed a long time ago, learned the basics, and that's it. To be clear: I'm not talking about *what* people are achieving. Most people I know are actively trying to get better at that. But do they reflect on *how* they reached their goals with the tools they use day in day out, and how do they could have done that more efficiently? Almost never, I find.
+My observation is that few people try to get better at *how* they work. Everybody uses the tools they got handed a long time ago, learned the basics, and that's it. To be clear: I'm not talking about *what* people are achieving. Most people I know are actively trying to get better at that. But do they reflect on *how* they reached their goals with the tools they use day in day out, and how they could have done that more efficiently? Almost never, I find.
 
 A tool is just a means to an end: getting work done. But what I believe to be true as well is that computers were invented to *help* people, *not* get in their way. Being able to use your tools well means you'll have *more* time to spend on things that *really* matter to you. Sow and reap and all that.
 
