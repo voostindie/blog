@@ -28,9 +28,9 @@ I have spent many, many hours over many, many years trying to become more produc
 
 I work as a business architect. What that means is that I'm juggling fifty-odd projects at a time, have at least twice as many stakeholders to satisfy, steer a team of about twenty architects who in turn facilitate about sixty DevOps teams with six to nine members each, and  generally try to get everybody moving in the direction that my team and I set and continuously adjust.
 
-My days are filled with meeting(s), listening, talking, coaching, presenting, reading, writing, drawing and thinking. What we call "Knowledge work". My agenda is packed. I switch contexts all day long.
+My days are filled with meeting(s), listening, talking, coaching, presenting, reading, writing, drawing and thinking. Also known as "Knowledge work". My agenda is packed. I switch contexts all day long.
 
-When you ask my colleagues about me, they will tell you (I hope) that I'm trustworthy, decisive, knowledgable, on top of of my game. And relaxed. I'm busy, but not stressed.
+When you ask my colleagues about me, they will tell you (I hope) that I'm trustworthy, decisive, knowledgable, on top of my game. And relaxed. I'm busy, but not stressed.
 
 I'm relaxed (most of the time) because my brain is not filled with things I have to remember. I've learned to externalize what I need to do and remember. By planning my weeks and days and because I know what I can handle, I deliver on time and I don't overcommit.
 
