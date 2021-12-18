@@ -1,6 +1,6 @@
 ---
 title: "\"Doing Knowledge Work\" part 1: Introduction to the Series"
-slug: "knowledge-work-1-introduction"
+slug: "knowledge-work-01"
 categories: ["knowledge work"]
 date: 2021-12-18
 draft: false
