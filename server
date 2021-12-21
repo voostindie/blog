@@ -1,2 +1,2 @@
 #!/bin/sh
-hugo -D server
+hugo -D -F server
