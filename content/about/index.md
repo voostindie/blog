@@ -16,8 +16,8 @@ I like the title as a subtitle for this blog, because it can mean so many things
 
 ## Why this blog?
 
-I'm not on Twitter, or Instagram, or Facebook, or whatever the kids use these days. I'm not on any social network. I just don't care about them. I think that all they are is a big waste of my time. There's nothing wrong with that! I'm a great fan of wasting my time on things. But, I'd rather waste it on things that give me joy.
+I'm not on Twitter, or Instagram, or Facebook, or whatever the kids use these days. I'm not on any social network. I just don't care about them. I think that they are mostly a waste of my time. Don't get me wrong: I'm a great fan of wasting my time on things. But, I'd rather waste it on things that actually give me joy. Social media does so rarely.
 
-Like keeping a blog.
+Keeping a blog gives me joy.
 
-Of course I know nobody is blogging anymore. I'm clearly getting old and am out of touch with reality. I don't care. I'm keeping this blog for me, myself and I in the first place. I like fiddling on it. I like tweaking it. It gives me joy. If some of the content on this blog gives somebody else some joy as well, then all the better. If not, also fine!
+Of course I know nobody is blogging anymore. I'm clearly getting old and am out of touch with reality. I don't care. I'm keeping this blog for me, myself and I in the first place. I like fiddling on it. I like tweaking it. It's fun! If some of the content on this blog gives somebody else some joy as well, then all the better. If not, also fine!
