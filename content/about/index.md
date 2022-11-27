@@ -10,8 +10,8 @@ I like the title as a subtitle for this blog, because it can mean so many things
 
 - Born in 1976; you do the math.
 - Lives in Ede in the Netherlands, with my wife, daughter and cat.
-- [Business architect](https://www.linkedin.com/in/vincent-oostindie-7ba2511/) at [Rabobank](https://www.rabobank.com).
-- Chairman at [TweeVV](https://www.tweevv.nl), the local volleyball club.
+- Works as a [business architect](https://www.linkedin.com/in/vincent-oostindie-7ba2511/) at [Rabobank](https://www.rabobank.com).
+- Volunteers as chairman at [TweeVV](https://www.tweevv.nl), the local volleyball club.
 - Likes [coding](https://github.com/voostindie), listening to music, reading (mostly fantasy), procrastinating on productivy, watching movies, gaming on PlayStation.
 
 ## Why this blog?
